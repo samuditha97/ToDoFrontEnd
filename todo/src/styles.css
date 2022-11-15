@@ -1,0 +1,33 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.header {
+    margin: 20px;
+    font-weight: bolder;
+    color: darkblue;
+}
+
+.taskTitleInput {
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.buttonAddTask {
+    padding: 10px;
+    background-color: dimgrey;
+}
+
+.searchInput {
+    margin-left: 7rem;
+    right: 0;
+    justify-content: right;
+}
+
+.taskTable {
+    margin-top: 20px;
+    border: dimgrey;
+    font-weight: bolder;
+}
